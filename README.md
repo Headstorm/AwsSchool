@@ -39,7 +39,7 @@ on EC2.
 
 #### VPC
 Virtual Private Clouds are the networking services within AWS. A single VPC is roughly analagous to a data center.
-Compute resources must deployed _within_ a VPC - they can't just exist in a void. The VPC service is a collection of 
+Compute resources must be deployed _within_ a VPC - they can't just exist in a void. The VPC service is a collection of 
 networking tools and products that ultimately define network topology, and host things like firewalls and load balances for your resources.
   
 #### S3
@@ -50,10 +50,11 @@ config files, images, jars, blobs, etc.
 
 #### EBS  
 Elastic Block Storage is block storage that can be attached to EC2 instances. This is different from S3, as EBS volumes
-can function as filesystems and boot volumes for compute resources. EBS volumes are their own entities, and can
+can function as filesystems and boot volumes for compute resources. EBS volumes are their own entities, and can be
 attached to multiple compute resources, detached, and reattached somewhere else. Their lifecycle is completely
 independent of any compute resources they may be used with.
 
 
 ### Next Steps
-More content will be added periodically.
+More content will be added periodically, including practical challenges and review questions for specific services and
+general topics.
