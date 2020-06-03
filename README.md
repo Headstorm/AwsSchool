@@ -9,7 +9,7 @@ each of their services, including user guides, whitepapers, and blogs. These thr
 all the information that's available on a given service. If there are missing or poorly explained sections of AWS' 
 documentation, you can actually open a pull request on [their public docs repo](https://github.com/awsdocs), check the
 [AWS forums](https://forums.aws.amazon.com/index.jspa?categoryID=1), or check out stack overflow. However,
-note that AWS services are changing and evloving constantly, and info on stack overflow may be dated or incorrect.
+note that AWS services are changing and evolving constantly, and info on stack overflow may be dated or incorrect.
 
 Once you are comfortable with the foundational services, it's highly recommended to read through the
 [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/), and the whitepapers for 
